@@ -1,0 +1,15 @@
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\bin\Debug\net9.0\dp6.exe
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\bin\Debug\net9.0\dp6.deps.json
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\bin\Debug\net9.0\dp6.runtimeconfig.json
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\bin\Debug\net9.0\dp6.dll
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\bin\Debug\net9.0\dp6.pdb
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\obj\Debug\net9.0\dp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\obj\Debug\net9.0\dp6.AssemblyInfoInputs.cache
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\obj\Debug\net9.0\dp6.AssemblyInfo.cs
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\obj\Debug\net9.0\dp6.csproj.CoreCompileInputs.cache
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\obj\Debug\net9.0\dp6.sourcelink.json
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\obj\Debug\net9.0\dp6.dll
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\obj\Debug\net9.0\refint\dp6.dll
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\obj\Debug\net9.0\dp6.pdb
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\obj\Debug\net9.0\dp6.genruntimeconfig.cache
+C:\Users\dresl\source\repos\2025-p4a-prg-dp-6-zbehlik_pilar\dp6\dp6\obj\Debug\net9.0\ref\dp6.dll
